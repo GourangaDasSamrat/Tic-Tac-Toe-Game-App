@@ -35,13 +35,13 @@ To get this game running locally on your machine, follow these simple steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone
+    git clone https://github.com/GourangaDasSamrat/Tic-Tac-Toe-Game-App.git
     ```
 
 2.  **Navigate to the project directory:**
 
     ```bash
-    cd tic-tac-toe-game
+    cd Tic-Tac-Toe-Game-App
     ```
 
 3.  **Open the `index.html` file:**
